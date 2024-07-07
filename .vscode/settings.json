@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "jaysbui",
+        "projectKey": "JaysBui_RAG_Chatbot"
+    }
+}
